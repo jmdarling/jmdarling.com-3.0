@@ -1,0 +1,6 @@
+{
+  "name": "jmdarling.com",
+  "dependencies": {
+    "normalize.css": "~3.0.3"
+  }
+}
